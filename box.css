@@ -1,0 +1,9 @@
+.box{
+    width:500px;
+    height:500px;
+    border:50px solid rgb(26, 6, 53);
+    background-image: url(Jasmin-white.jpg);
+    background-position: bottom;
+    padding:30px;
+    margin:120px;
+}
